@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "hello",
+      "description": "world",
+      "id": 1
+    },
+    {
+      "title": "do",
+      "description": "this",
+      "id": 2
+    },
+    {
+      "title": "철구님의 간장쇼",
+      "description": "철구is back. 열혈슈",
+      "userId": "110208815770013610534",
+      "id": 3
+    },
+    {
+      "title": "구영모 님의 먹방",
+      "description": "다먹어줄테다~~ 음하하하 ",
+      "userId": "110208815770013610534",
+      "id": 4
+    }
+  ]
+}
